@@ -5,4 +5,8 @@
 fuck up some kommas
 
 //Jeg har lagt en lort her
+
 // Der er nu 2 lorte
+
+jeg vil lave en ædsafgd
+
