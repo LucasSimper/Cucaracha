@@ -8,5 +8,7 @@ fuck up some kommas
 
 // Der er nu 2 lorte
 
+//Der er allerede kommet 3 lorte
+
 jeg vil lave en ædsafgd
 
