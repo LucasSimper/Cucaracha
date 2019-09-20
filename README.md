@@ -3,6 +3,7 @@ Cucaracha
 ALDRIG COMMIT TIL MASTER
 
 Kort beskrivelse:
+En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse af personlige kontaktoplysninger og derefter kan man som reserverer vælge et tilgængeligt bord. 
 
 Kravspecifikationer
 
