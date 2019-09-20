@@ -2,6 +2,8 @@ Cucaracha
 
 ALDRIG COMMIT TIL MASTER
 
+Kort beskrivelse:
+
 Kravspecifikationer
 
 1. Kunden kommer ind på vores hjemmeside for at bestille bord.
