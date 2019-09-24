@@ -9,20 +9,20 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
 
 ## Kravspecifikation 
 Login side :
-  Velkomstbesked
-  Login kræver at kunden har oprettet bruger
-  Opret bruger- hvis kunden ikke har gjort det endnu
+  1. Velkomstbesked
+  2. Login kræver at kunden har oprettet bruger
+  3. Opret bruger- hvis kunden ikke har gjort det endnu
 GUI :
-  Brugeren ser en oversigt over borde med angivelse af ledighed for hvert bord
-  Brugeren kan vælge dato og tidspunkt for ankomst, og kan derved filtere listen af borde
-  Brugeren kan vælge et bord som personen ønsker at booke
+  1. Brugeren ser en oversigt over borde med angivelse af ledighed for hvert bord
+  2. Brugeren kan vælge dato og tidspunkt for ankomst, og kan derved filtere listen af borde
+  3. Brugeren kan vælge et bord som personen ønsker at booke
  Bekræftelse :
-  Brugeren skal bekræfte bestillingen.
-  Sender bestilling til Cucarachas admin profil
+  1. Brugeren skal bekræfte bestillingen.
+  2. Sender bestilling til Cucarachas admin profil
  Admin profil :
- Login- en master bruger som alle Cucarachas ansatte logger ind på
- Ser bekræftede bestillinger og persondata på bestillinger
- Bekræfte eller afvise nye bestillinger- besked til bruger profil.
+ 1. Login- en master bruger som alle Cucarachas ansatte logger ind på
+ 2. Ser bekræftede bestillinger og persondata på bestillinger
+ 3. Bekræfte eller afvise nye bestillinger- besked til bruger profil.
  
  
 Kravspecifikationer
