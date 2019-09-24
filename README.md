@@ -16,7 +16,7 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
   1. Brugeren ser en oversigt over borde med angivelse af ledighed for hvert bord
   2. Brugeren kan vælge dato og tidspunkt for ankomst, og kan derved filtere listen af borde
   3. Brugeren kan vælge et bord som personen ønsker at booke
-#### Bekræftelse ### :
+#### Bekræftelse:
   1. Brugeren skal bekræfte bestillingen.
   2. Sender bestilling til Cucarachas admin profil
 #### Admin profil :
