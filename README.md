@@ -1,10 +1,29 @@
 Cucaracha
+Se på dette projekt for at få styr på opsætningen af opgaven:
+https://github.com/mwndigi/techstack
 
 ALDRIG COMMIT TIL MASTER
 
-Kort beskrivelse:
-En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse af personlige kontaktoplysninger og derefter kan man som reserverer vælge et tilgængeligt bord. 
+## Kort beskrivelse:
+En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse af personlige kontaktoplysninger og derefter kan man som kunde/ vælge et tilgængeligt bord. 
 
+## Login side:
+  Velkomstbesked
+  Login kræver at kunden har oprettet bruger
+  Opret bruger- hvis kunden ikke har gjort det endnu
+## GUI:
+  Brugeren ser en oversigt over borde med angivelse af ledighed for hvert bord
+  Brugeren kan vælge dato og tidspunkt for ankomst, og kan derved filtere listen af borde
+  Brugeren kan vælge et bord som personen ønsker at booke
+## Bekræftelse:
+  Brugeren skal bekræfte bestillingen.
+  Sender bestilling til Cucarachas admin profil
+## Admin profil:
+ Login- en master bruger som alle Cucarachas ansatte logger ind på
+ Ser bekræftede bestillinger og persondata på bestillinger
+ Bekræfte eller afvise nye bestillinger- besked til bruger profil.
+ 
+ 
 Kravspecifikationer
 
 1. Kunden kommer ind på vores hjemmeside for at bestille bord.
