@@ -8,10 +8,15 @@ ALDRIG COMMIT TIL MASTER
 En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse af personlige kontaktoplysninger og derefter kan man som kunde/ vælge et tilgængeligt bord. 
 
 # Kravspecifikation 
-#### Login side :
+#### Login side:
   1. Velkomstbesked
   2. Login kræver at kunden har oprettet bruger
   3. Opret bruger- hvis kunden ikke har gjort det endnu
+#### Opret bruger:
+  1. Fulde navn
+  2. Køn
+  3. Password
+  
 #### GUI:
   1. Brugeren ser en oversigt over borde med angivelse af ledighed for hvert bord
   2. Brugeren kan vælge dato og tidspunkt for ankomst, og kan derved filtere listen af borde
