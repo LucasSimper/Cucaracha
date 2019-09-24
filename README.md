@@ -25,7 +25,7 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
  3. Bekræfte eller afvise nye bestillinger- besked til bruger profil.
  
  
-Kravspecifikationer
+# Kravspecifikationer
 
 1. Kunden kommer ind på vores hjemmeside for at bestille bord.
 
