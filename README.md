@@ -28,3 +28,5 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
  1. Login- en master bruger som alle Cucarachas ansatte logger ind på
  2. Ser bekræftede bestillinger og persondata på bestillinger- også gennem GUI'en
  3. Bekræfte eller afvise nye bestillinger- besked til bruger profil.
+
+![alt text](https://raw.githubusercontent.com/LucasSimper/cucaracha/master/Screenshot 2019-09-30 at 13.40.24.png)
