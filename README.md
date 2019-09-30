@@ -31,4 +31,4 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
 
 ![alt text](https://raw.githubusercontent.com/LucasSimper/Cucaracha/blob/master/classChart.png)
 
-![Screenshot](Screenshot_2019-09-30_at_13.40.24.png)
+![Screenshot](classChart.png)
