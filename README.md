@@ -18,7 +18,7 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
   3. Password
   
 #### GUI:
-  1. Brugeren ser en oversigt over borde med angivelse af ledighed for hvert bord
+  1. Brugeren ser en oversigt over borde med angivelse af ledighed ved hvert bord
   2. Brugeren kan vælge dato og tidspunkt for ankomst, og kan derved filtere listen af borde
   3. Brugeren kan vælge et bord som personen ønsker at booke
 #### Bekræftelse:
@@ -26,7 +26,7 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
   2. Sender bestilling til Cucarachas admin profil
 #### Admin profil :
  1. Login- en master bruger som alle Cucarachas ansatte logger ind på
- 2. Ser bekræftede bestillinger og persondata på bestillinger
+ 2. Ser bekræftede bestillinger og persondata på bestillinger- også gennem GUI'en
  3. Bekræfte eller afvise nye bestillinger- besked til bruger profil.
  
  
