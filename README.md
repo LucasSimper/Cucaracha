@@ -29,6 +29,6 @@ En hjemmeside hvorpå man kan reservere et bord (eller flere) efter udfyldelse a
  2. Ser bekræftede bestillinger og persondata på bestillinger- også gennem GUI'en
  3. Bekræfte eller afvise nye bestillinger- besked til bruger profil.
 
-![alt text](https://raw.githubusercontent.com/LucasSimper/cucaracha/master/Screenshot_2019-09-30_at_13.40.24.png)
+![alt text](https://raw.githubusercontent.com/LucasSimper/Cucaracha/blob/master/Screenshot%202019-09-30%20at%2013.40.24.png)
 
 ![Screenshot](Screenshot_2019-09-30_at_13.40.24.png)
